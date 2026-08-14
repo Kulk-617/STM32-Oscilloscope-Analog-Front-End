@@ -17,7 +17,7 @@ Designed in KiCad, simulated in TINA, and prototyped on a breadboard.
 
 ## Signal Path
 
-`Input` → `Low-Pass Filter` → `Buffer` → `34× Amplifier` → `Sallen–Key Filter` → `1.65 V Bias` → `ADC Buffer` → `STM32 ADC`
+`Input` → `Low-Pass Filter` → `Buffer` → `10× Amplifier` → `Sallen–Key Filter` → `1.65 V Bias` → `ADC Buffer` → `STM32 ADC`
 
 ## Simulation
 

@@ -29,7 +29,7 @@ Designed in KiCad, simulated in TINA, and prototyped on a breadboard.
 
 ## Hardware
 
-[View schematic](hardware/oscilloscope-afe-schematic.pdf)
+[View schematic](hardware/AFE.pdf)
 
 ![Breadboard prototype](images/breadboard-prototype.jpg)
 

@@ -32,6 +32,6 @@ Designed in KiCad, simulated in TINA, and prototyped on a breadboard.
 [View schematic](hardware/AFE.pdf)
 
 ![Schematic](hardware/AFE_schematic.png)
-![Breadboard prototype](images/breadboard-prototype.jpg)
 
-[Watch demonstration](media/demo.mp4)
+
+[Watch demonstration](prototype/AFE_demonstration.mp4)

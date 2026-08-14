@@ -21,7 +21,7 @@ Designed in KiCad, simulated in TINA, and prototyped on a breadboard.
 
 ## Simulation
 
-![AC transfer characteristics](images/ac-transfer-characteristics.png)
+![AC transfer characteristics](simulation/ACsweep.png)
 
 - `VF3` — Sallen–Key output
 - `VF1` — ADC buffer output

@@ -10,7 +10,7 @@ Designed in KiCad, simulated in TINA, and prototyped on a breadboard.
 |---|---:|
 | Gain | 10 V/V |
 | Passband gain | 20.8 dB |
-| Sallen–Key cutoff | ~450 kHz |
+| Sallen–Key cutoff | ~501 kHz |
 | ADC-output bandwidth | ~505 kHz |
 | ADC bias | 1.65 V |
 | ADC range | 0–3.3 V |
